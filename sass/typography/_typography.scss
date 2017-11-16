@@ -1,0 +1,20 @@
+body,
+button,
+input,
+select,
+textarea {
+	color: #000;
+	font-family: 'Merriweather', serif;
+	font-size: 16px;
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+.site-content {
+	font-size: 1.125em;
+	line-height: 1.6em;
+}
+
+@import "headings";
+
+@import "copy";
